@@ -1,3 +1,4 @@
 # Techio-DiscordBot-
 A repository for my Python bot.
-Start using with command '!'.
+
+Get started with '!help'.
